@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="title_text">What\'s new in the world?</string>
+    <string name="new_feed_button_text">Add New Feed</string>
+    <string name="btn_delete_feed_text">Delete Feed</string>
+    <string-array name="feeds">
+        <item>BBC Europe</item>
+        <item>BBC England</item>
+        <item>Psychology Today</item>
+        <item>Music Radar</item>
+    </string-array>
+</resources>
